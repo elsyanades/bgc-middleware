@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Env config
+.env
+
+# Docker volumes & build files
+pg_data/
+log/
+*.log
+
+# VSCode or IDE folders
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
