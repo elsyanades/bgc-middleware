@@ -1,0 +1,46 @@
+# ChirpStack configuration file (chirpstack.toml)
+
+[postgresql]
+# PostgreSQL dsn.
+# Format: postgres://<user>:<password>@<host>/<database>?sslmode=disable
+dsn="postgres://postgres:postgres@postgres/smartbuilding?sslmode=disable"
+
+[redis]
+# Redis server address.
+url="redis://redis:6379"
+
+[network_server]
+# Band and region must match LoRa region (example: EU868, AS923, etc)
+net_id="000000"
+
+[network_server.band]
+name="AS923"
+
+[application_server]
+# Public hostname for external clients.
+hostname="localhost"
+
+[application_server.integration.mqtt]
+# MQTT broker settings
+server="tcp://mosquitto:1883"
+username=""
+password=""
+json=true
+
+tls_enabled=false
+
+[application_server.api]
+# gRPC server settings
+bind="0.0.0.0:8080"
+
+[application_server.external_api]
+# REST API settings
+bind="0.0.0.0:8080"
+
+[application_server.external_api.jwt]
+secret="supersecretkey"
+
+[join_server]
+# The join-server configuration.
+hostname="localhost"
+bind="0.0.0.0:8003"

@@ -1,0 +1,232 @@
+[2025-04-21T13:03:47.634Z] 🔥 Unhandled Promise: Error: getaddrinfo EAI_AGAIN postgres
+[2025-04-21T13:06:22.687Z] 🔥 Unhandled Promise: error: password authentication failed for user "postgres"
+[2025-04-22T06:52:38.260Z] 📦 Payload ID: 1745304758260 | Device: WEST/WTS506 #1
+[2025-04-22T06:52:38.263Z] 🧪 Param: battery | Value: 94 | Unit: %
+[2025-04-22T06:52:38.291Z] 🧪 Param: temperature | Value: 27.75 | Unit: °C
+[2025-04-22T06:52:38.305Z] 🧪 Param: humidity | Value: 66.79 | Unit: -
+[2025-04-22T06:52:38.315Z] 🧪 Param: wind_direction | Value: 71.76 | Unit: -
+[2025-04-22T06:52:38.325Z] 🧪 Param: pressure | Value: 1006.89 | Unit: hPa
+[2025-04-22T06:52:38.334Z] 🧪 Param: wind_speed | Value: 10.1 | Unit: -
+[2025-04-22T06:52:38.341Z] 🧪 Param: rainfall_total | Value: 87.22 | Unit: -
+[2025-04-22T06:52:41.480Z] 🧪 Param: rainfall_counter | Value: 166 | Unit: -
+[2025-04-22T06:52:48.239Z] 📦 Payload ID: 1745304768239 | Device: WEST/WTS506 #1
+[2025-04-22T06:52:48.240Z] 🧪 Param: battery | Value: 94 | Unit: %
+[2025-04-22T06:52:48.255Z] 🧪 Param: temperature | Value: 26.75 | Unit: °C
+[2025-04-22T06:52:48.263Z] 🧪 Param: humidity | Value: 75.42 | Unit: -
+[2025-04-22T06:52:48.272Z] 🧪 Param: wind_direction | Value: 134.09 | Unit: -
+[2025-04-22T06:52:48.278Z] 🧪 Param: pressure | Value: 1001.77 | Unit: hPa
+[2025-04-22T06:52:48.290Z] 🧪 Param: wind_speed | Value: 5.64 | Unit: -
+[2025-04-22T06:52:48.297Z] 🧪 Param: rainfall_total | Value: 24.1 | Unit: -
+[2025-04-22T06:52:48.304Z] 🧪 Param: rainfall_counter | Value: 40 | Unit: -
+[2025-04-22T06:52:58.238Z] 📦 Payload ID: 1745304778238 | Device: WEST/WTS506 #1
+[2025-04-22T06:52:58.239Z] 🧪 Param: battery | Value: 94 | Unit: %
+[2025-04-22T06:52:58.247Z] 🧪 Param: temperature | Value: 20.15 | Unit: °C
+[2025-04-22T06:52:58.253Z] 🧪 Param: humidity | Value: 58.32 | Unit: -
+[2025-04-22T06:52:58.261Z] 🧪 Param: wind_direction | Value: 128.05 | Unit: -
+[2025-04-22T06:52:58.267Z] 🧪 Param: pressure | Value: 1001.75 | Unit: hPa
+[2025-04-22T06:52:58.278Z] 🧪 Param: wind_speed | Value: 2.1 | Unit: -
+[2025-04-22T06:52:58.283Z] 🧪 Param: rainfall_total | Value: 67.84 | Unit: -
+[2025-04-22T06:53:01.388Z] 🧪 Param: rainfall_counter | Value: 27 | Unit: -
+[2025-04-22T06:53:51.206Z] 📦 Payload ID: 1745304831206 | Device: WEST/AM307 #1
+[2025-04-22T06:53:51.207Z] 🧪 Param: temperature | Value: 27.58 | Unit: °C
+[2025-04-22T06:53:51.215Z] 🧪 Param: humidity | Value: 67.18 | Unit: -
+[2025-04-22T06:53:51.224Z] 🧪 Param: co2 | Value: 1390 | Unit: ppm
+[2025-04-22T06:53:54.300Z] 🧪 Param: tvoc | Value: 207 | Unit: ppb
+[2025-04-22T06:53:54.309Z] 🧪 Param: pm2_5 | Value: 62 | Unit: µg/m³
+[2025-04-22T06:53:54.319Z] 🧪 Param: illuminance | Value: 5 | Unit: Lux
+[2025-04-22T06:53:54.341Z] 🧪 Param: pressure | Value: 1003.04 | Unit: hPa
+[2025-04-22T06:53:54.348Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T06:54:01.182Z] 📦 Payload ID: 1745304841182 | Device: WEST/AM307 #1
+[2025-04-22T06:54:01.184Z] 🧪 Param: temperature | Value: 26.8 | Unit: °C
+[2025-04-22T06:54:01.193Z] 🧪 Param: humidity | Value: 67.35 | Unit: -
+[2025-04-22T06:54:01.202Z] 🧪 Param: co2 | Value: 1503 | Unit: ppm
+[2025-04-22T06:54:04.289Z] 🧪 Param: tvoc | Value: 367 | Unit: ppb
+[2025-04-22T06:54:04.786Z] 🧪 Param: pm2_5 | Value: 130 | Unit: µg/m³
+[2025-04-22T06:54:04.802Z] 🧪 Param: illuminance | Value: 67 | Unit: Lux
+[2025-04-22T06:54:04.862Z] 🧪 Param: pressure | Value: 1002.76 | Unit: hPa
+[2025-04-22T06:54:04.868Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T06:54:11.171Z] 📦 Payload ID: 1745304851171 | Device: WEST/AM307 #1
+[2025-04-22T06:54:11.171Z] 🧪 Param: temperature | Value: 28.6 | Unit: °C
+[2025-04-22T06:54:11.227Z] 🧪 Param: humidity | Value: 70.65 | Unit: -
+[2025-04-22T06:54:11.232Z] 🧪 Param: co2 | Value: 431 | Unit: ppm
+[2025-04-22T06:54:11.238Z] 🧪 Param: tvoc | Value: 410 | Unit: ppb
+[2025-04-22T06:54:11.246Z] 🧪 Param: pm2_5 | Value: 20 | Unit: µg/m³
+[2025-04-22T06:54:11.252Z] 🧪 Param: illuminance | Value: 39 | Unit: Lux
+[2025-04-22T06:54:11.263Z] 🧪 Param: pressure | Value: 1000.79 | Unit: hPa
+[2025-04-22T06:54:11.353Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T06:54:21.195Z] 📦 Payload ID: 1745304861195 | Device: WEST/AM307 #1
+[2025-04-22T06:54:21.197Z] 🧪 Param: temperature | Value: 27.75 | Unit: °C
+[2025-04-22T06:54:21.214Z] 🧪 Param: humidity | Value: 71.58 | Unit: -
+[2025-04-22T06:54:21.218Z] 🧪 Param: co2 | Value: 628 | Unit: ppm
+[2025-04-22T06:54:21.224Z] 🧪 Param: tvoc | Value: 433 | Unit: ppb
+[2025-04-22T06:54:21.229Z] 🧪 Param: pm2_5 | Value: 36 | Unit: µg/m³
+[2025-04-22T06:54:21.239Z] 🧪 Param: illuminance | Value: 14 | Unit: Lux
+[2025-04-22T06:54:21.294Z] 🧪 Param: pressure | Value: 1000.82 | Unit: hPa
+[2025-04-22T06:54:21.363Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T06:54:31.211Z] 📦 Payload ID: 1745304871211 | Device: WEST/AM307 #1
+[2025-04-22T06:54:31.212Z] 🧪 Param: temperature | Value: 27.01 | Unit: °C
+[2025-04-22T06:54:31.940Z] 🧪 Param: humidity | Value: 70.78 | Unit: -
+[2025-04-22T06:54:31.957Z] 🧪 Param: co2 | Value: 868 | Unit: ppm
+[2025-04-22T06:54:32.031Z] 🧪 Param: tvoc | Value: 3 | Unit: ppb
+[2025-04-22T06:54:32.089Z] 🧪 Param: pm2_5 | Value: 30 | Unit: µg/m³
+[2025-04-22T06:54:32.092Z] 🧪 Param: illuminance | Value: 36 | Unit: Lux
+[2025-04-22T06:54:32.098Z] 🧪 Param: pressure | Value: 1001.36 | Unit: hPa
+[2025-04-22T06:54:32.102Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T07:11:10.821Z] 📦 Payload ID: 1745305870821 | Device: WEST/HBLD #1
+[2025-04-22T07:11:10.825Z] 🧪 Param: flow_rate | Value: 5.46 | Unit: -
+[2025-04-22T07:11:10.855Z] 🧪 Param: battery | Value: 93 | Unit: %
+[2025-04-22T07:11:20.797Z] 📦 Payload ID: 1745305880797 | Device: WEST/HBLD #1
+[2025-04-22T07:11:20.799Z] 🧪 Param: flow_rate | Value: 4.77 | Unit: -
+[2025-04-22T07:11:20.824Z] 🧪 Param: battery | Value: 93 | Unit: %
+[2025-04-22T07:13:59.878Z] 📦 Payload ID: 1745306039878 | Device: WEST/HBLD #2
+[2025-04-22T07:13:59.880Z] 🧪 Param: flow_rate | Value: 7.83 | Unit: -
+[2025-04-22T07:13:59.889Z] 🧪 Param: battery | Value: 93 | Unit: %
+[2025-04-22T07:14:09.845Z] 📦 Payload ID: 1745306049845 | Device: WEST/HBLD #2
+[2025-04-22T07:14:09.845Z] 🧪 Param: flow_rate | Value: 4.31 | Unit: -
+[2025-04-22T07:14:09.853Z] 🧪 Param: battery | Value: 93 | Unit: %
+[2025-04-22T07:27:08.924Z] 📦 Payload ID: 1745306828923 | Device: WEST/GS301 #1
+[2025-04-22T07:27:08.934Z] 🧪 Param: nh3 | Value: 7.05 | Unit: ppm
+[2025-04-22T07:27:12.142Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T07:27:18.915Z] 📦 Payload ID: 1745306838915 | Device: WEST/GS301 #1
+[2025-04-22T07:27:18.921Z] 🧪 Param: nh3 | Value: 0.37 | Unit: ppm
+[2025-04-22T07:27:18.941Z] 🧪 Param: battery | Value: 96 | Unit: %
+[2025-04-22T07:28:38.323Z] 📦 Payload ID: 1745306918323 | Device: WEST/EM500-UDL #1
+[2025-04-22T07:28:38.324Z] 🧪 Param: battery | Value: 87 | Unit: %
+[2025-04-22T07:28:38.331Z] 🧪 Param: distance | Value: 434 | Unit: cm
+[2025-04-22T07:28:48.333Z] 📦 Payload ID: 1745306928333 | Device: WEST/EM500-UDL #1
+[2025-04-22T07:28:48.337Z] 🧪 Param: battery | Value: 80 | Unit: %
+[2025-04-22T07:28:48.352Z] 🧪 Param: distance | Value: 629 | Unit: cm
+[2025-04-22T07:30:44.977Z] 📦 Payload ID: 1745307044977 | Device: WEST/RK500-09 #1
+[2025-04-22T07:30:44.978Z] 🧪 Param: ph | Value: 7.12 | Unit: -
+[2025-04-22T07:30:44.990Z] 🧪 Param: do | Value: 1.39 | Unit: mg/L
+[2025-04-22T07:30:44.999Z] 🧪 Param: turbidity | Value: 20.42 | Unit: NTU
+[2025-04-22T07:30:45.013Z] 🧪 Param: conductivity | Value: 75.87 | Unit: µS/cm
+[2025-04-22T07:30:45.024Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T07:31:10.151Z] 📦 Payload ID: 1745307070151 | Device: WEST/RK500-09 #2
+[2025-04-22T07:31:10.153Z] 🧪 Param: ph | Value: 8.23 | Unit: -
+[2025-04-22T07:31:10.172Z] 🧪 Param: do | Value: 0.76 | Unit: mg/L
+[2025-04-22T07:31:10.188Z] 🧪 Param: turbidity | Value: 5.37 | Unit: NTU
+[2025-04-22T07:31:10.205Z] 🧪 Param: conductivity | Value: 42.74 | Unit: µS/cm
+[2025-04-22T07:31:10.221Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:07:36.835Z] 📦 Payload ID: 1745309256834 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:07:36.839Z] 🧪 Param: ph | Value: 5.09 | Unit: -
+[2025-04-22T08:07:40.050Z] 🧪 Param: do | Value: 6.83 | Unit: mg/L
+[2025-04-22T08:07:40.100Z] 🧪 Param: turbidity | Value: 5.87 | Unit: NTU
+[2025-04-22T08:07:40.142Z] 🧪 Param: conductivity | Value: 271 | Unit: µS/cm
+[2025-04-22T08:07:40.182Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:07:46.810Z] 📦 Payload ID: 1745309266810 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:07:46.811Z] 🧪 Param: ph | Value: 7.45 | Unit: -
+[2025-04-22T08:07:46.841Z] 🧪 Param: do | Value: 2.47 | Unit: mg/L
+[2025-04-22T08:07:46.879Z] 🧪 Param: turbidity | Value: 18.85 | Unit: NTU
+[2025-04-22T08:07:46.912Z] 🧪 Param: conductivity | Value: 113.04 | Unit: µS/cm
+[2025-04-22T08:07:46.918Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:07:56.837Z] 📦 Payload ID: 1745309276837 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:07:56.840Z] 🧪 Param: ph | Value: 5.8 | Unit: -
+[2025-04-22T08:07:59.995Z] 🧪 Param: do | Value: 4.71 | Unit: mg/L
+[2025-04-22T08:08:00.049Z] 🧪 Param: turbidity | Value: 29.26 | Unit: NTU
+[2025-04-22T08:08:00.085Z] 🧪 Param: conductivity | Value: 454.44 | Unit: µS/cm
+[2025-04-22T08:08:00.095Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:30:37.388Z] 📦 Payload ID: 1745310637387 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:30:37.400Z] 🧪 Param: ph | Value: 7.97 | Unit: -
+[2025-04-22T08:30:37.458Z] 🧪 Param: do | Value: 6.91 | Unit: mg/L
+[2025-04-22T08:30:37.464Z] 🧪 Param: turbidity | Value: 9.6 | Unit: NTU
+[2025-04-22T08:30:37.472Z] 🧪 Param: conductivity | Value: 217.84 | Unit: µS/cm
+[2025-04-22T08:30:37.476Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:30:47.320Z] 📦 Payload ID: 1745310647320 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:30:47.321Z] 🧪 Param: ph | Value: 5.03 | Unit: -
+[2025-04-22T08:30:50.495Z] 🧪 Param: do | Value: 5.68 | Unit: mg/L
+[2025-04-22T08:30:50.513Z] 🧪 Param: turbidity | Value: 29.37 | Unit: NTU
+[2025-04-22T08:30:50.533Z] 🧪 Param: conductivity | Value: 291.89 | Unit: µS/cm
+[2025-04-22T08:30:50.547Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:30:57.332Z] 📦 Payload ID: 1745310657332 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:30:57.334Z] 🧪 Param: ph | Value: 6.33 | Unit: -
+[2025-04-22T08:31:00.569Z] 🧪 Param: do | Value: 5.01 | Unit: mg/L
+[2025-04-22T08:31:00.581Z] 🧪 Param: turbidity | Value: 16.64 | Unit: NTU
+[2025-04-22T08:31:00.593Z] 🧪 Param: conductivity | Value: 395.19 | Unit: µS/cm
+[2025-04-22T08:31:00.600Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:31:07.336Z] 📦 Payload ID: 1745310667336 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:31:07.338Z] 🧪 Param: ph | Value: 5.57 | Unit: -
+[2025-04-22T08:31:10.541Z] 🧪 Param: do | Value: 6.65 | Unit: mg/L
+[2025-04-22T08:31:10.546Z] 🧪 Param: turbidity | Value: 39.28 | Unit: NTU
+[2025-04-22T08:31:10.552Z] 🧪 Param: conductivity | Value: 241.82 | Unit: µS/cm
+[2025-04-22T08:31:10.559Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:31:17.327Z] 📦 Payload ID: 1745310677327 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:31:17.328Z] 🧪 Param: ph | Value: 8.88 | Unit: -
+[2025-04-22T08:31:20.397Z] 🧪 Param: do | Value: 6.42 | Unit: mg/L
+[2025-04-22T08:31:20.453Z] 🧪 Param: turbidity | Value: 5.05 | Unit: NTU
+[2025-04-22T08:31:20.535Z] 🧪 Param: conductivity | Value: 364.76 | Unit: µS/cm
+[2025-04-22T08:31:20.542Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:31:27.341Z] 📦 Payload ID: 1745310687341 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:31:27.345Z] 🧪 Param: ph | Value: 6.86 | Unit: -
+[2025-04-22T08:31:27.439Z] 🧪 Param: do | Value: 8.52 | Unit: mg/L
+[2025-04-22T08:31:27.560Z] 🧪 Param: turbidity | Value: 42.76 | Unit: NTU
+[2025-04-22T08:31:27.575Z] 🧪 Param: conductivity | Value: 78.18 | Unit: µS/cm
+[2025-04-22T08:31:27.649Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:32:47.485Z] 📦 Payload ID: 1745310767484 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:32:47.494Z] 🧪 Param: ph | Value: 6.6 | Unit: -
+[2025-04-22T08:32:47.532Z] 🧪 Param: do | Value: 3.22 | Unit: mg/L
+[2025-04-22T08:32:47.553Z] 🧪 Param: turbidity | Value: 26.93 | Unit: NTU
+[2025-04-22T08:32:47.569Z] 🧪 Param: conductivity | Value: 350.64 | Unit: µS/cm
+[2025-04-22T08:32:47.578Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:32:57.473Z] 📦 Payload ID: 1745310777473 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:32:57.492Z] 🧪 Param: ph | Value: 8.99 | Unit: -
+[2025-04-22T08:33:00.665Z] 🧪 Param: do | Value: 0.64 | Unit: mg/L
+[2025-04-22T08:33:00.672Z] 🧪 Param: turbidity | Value: 33.97 | Unit: NTU
+[2025-04-22T08:33:00.678Z] 🧪 Param: conductivity | Value: 495.04 | Unit: µS/cm
+[2025-04-22T08:33:00.685Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:33:07.482Z] 📦 Payload ID: 1745310787482 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:33:07.483Z] 🧪 Param: ph | Value: 8.6 | Unit: -
+[2025-04-22T08:33:10.612Z] 🧪 Param: do | Value: 8.88 | Unit: mg/L
+[2025-04-22T08:33:10.630Z] 🧪 Param: turbidity | Value: 23.31 | Unit: NTU
+[2025-04-22T08:33:10.658Z] 🧪 Param: conductivity | Value: 495.7 | Unit: µS/cm
+[2025-04-22T08:33:10.666Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:33:17.502Z] 📦 Payload ID: 1745310797502 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:33:17.502Z] 🧪 Param: ph | Value: 5.13 | Unit: -
+[2025-04-22T08:33:20.654Z] 🧪 Param: do | Value: 6.91 | Unit: mg/L
+[2025-04-22T08:33:20.674Z] 🧪 Param: turbidity | Value: 11.05 | Unit: NTU
+[2025-04-22T08:33:20.684Z] 🧪 Param: conductivity | Value: 262.61 | Unit: µS/cm
+[2025-04-22T08:33:20.693Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:33:27.519Z] 📦 Payload ID: 1745310807518 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:33:27.523Z] 🧪 Param: ph | Value: 7.87 | Unit: -
+[2025-04-22T08:33:27.541Z] 🧪 Param: do | Value: 1.58 | Unit: mg/L
+[2025-04-22T08:33:27.562Z] 🧪 Param: turbidity | Value: 48.51 | Unit: NTU
+[2025-04-22T08:33:27.567Z] 🧪 Param: conductivity | Value: 182.82 | Unit: µS/cm
+[2025-04-22T08:33:27.572Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:34:57.683Z] 📦 Payload ID: 1745310897683 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:34:57.693Z] 🧪 Param: ph | Value: 7.76 | Unit: -
+[2025-04-22T08:34:57.730Z] 🧪 Param: do | Value: 7.75 | Unit: mg/L
+[2025-04-22T08:34:57.739Z] 🧪 Param: turbidity | Value: 49.94 | Unit: NTU
+[2025-04-22T08:34:57.749Z] 🧪 Param: conductivity | Value: 353.17 | Unit: µS/cm
+[2025-04-22T08:34:57.755Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:35:07.681Z] 📦 Payload ID: 1745310907681 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:35:07.707Z] 🧪 Param: ph | Value: 7.33 | Unit: -
+[2025-04-22T08:35:07.731Z] 🧪 Param: do | Value: 3.27 | Unit: mg/L
+[2025-04-22T08:35:07.742Z] 🧪 Param: turbidity | Value: 0.97 | Unit: NTU
+[2025-04-22T08:35:07.747Z] 🧪 Param: conductivity | Value: 257.81 | Unit: µS/cm
+[2025-04-22T08:35:07.756Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:35:17.693Z] 📦 Payload ID: 1745310917693 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:35:17.696Z] 🧪 Param: ph | Value: 6.06 | Unit: -
+[2025-04-22T08:35:20.966Z] 🧪 Param: do | Value: 6.02 | Unit: mg/L
+[2025-04-22T08:35:20.982Z] 🧪 Param: turbidity | Value: 2.39 | Unit: NTU
+[2025-04-22T08:35:20.992Z] 🧪 Param: conductivity | Value: 486.81 | Unit: µS/cm
+[2025-04-22T08:35:21.002Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:37:59.276Z] 📦 Payload ID: 1745311079275 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:37:59.281Z] 🧪 Param: ph | Value: 7.06 | Unit: -
+[2025-04-22T08:37:59.325Z] 🧪 Param: do | Value: 2.86 | Unit: mg/L
+[2025-04-22T08:37:59.346Z] 🧪 Param: turbidity | Value: 8.15 | Unit: NTU
+[2025-04-22T08:37:59.353Z] 🧪 Param: conductivity | Value: 441.53 | Unit: µS/cm
+[2025-04-22T08:37:59.360Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:38:09.195Z] 📦 Payload ID: 1745311089195 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:38:09.207Z] 🧪 Param: ph | Value: 8.75 | Unit: -
+[2025-04-22T08:38:12.442Z] 🧪 Param: do | Value: 4.45 | Unit: mg/L
+[2025-04-22T08:38:12.465Z] 🧪 Param: turbidity | Value: 10.81 | Unit: NTU
+[2025-04-22T08:38:12.486Z] 🧪 Param: conductivity | Value: 207.44 | Unit: µS/cm
+[2025-04-22T08:38:12.508Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:42:29.577Z] 📦 Payload ID: 1745311349576 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:42:29.584Z] 🧪 Param: ph | Value: 6.7 | Unit: -
+[2025-04-22T08:42:29.615Z] 🧪 Param: do | Value: 9.7 | Unit: mg/L
+[2025-04-22T08:42:29.626Z] 🧪 Param: turbidity | Value: 17.85 | Unit: NTU
+[2025-04-22T08:42:29.637Z] 🧪 Param: conductivity | Value: 385.12 | Unit: µS/cm
+[2025-04-22T08:42:29.648Z] 🧪 Param: battery | Value: 95 | Unit: %
+[2025-04-22T08:42:39.621Z] 📦 Payload ID: 1745311359621 | Device: WR/RK500-09 #PR1
+[2025-04-22T08:42:39.631Z] 🧪 Param: ph | Value: 5.63 | Unit: -

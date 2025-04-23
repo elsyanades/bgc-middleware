@@ -1,0 +1,16 @@
+{
+    "name": "middleware-bgc",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.8.4",
+        "dotenv": "^16.5.0",
+        "express": "^5.1.0",
+        "mqtt": "^5.11.0",
+        "pg": "^8.14.1",
+        "pg-format": "^1.0.4"
+    }
+}

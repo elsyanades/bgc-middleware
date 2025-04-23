@@ -1,0 +1,11 @@
+{
+  "name": "dummy-sensor",
+  "version": "1.0.0",
+  "main": "em320-tilt.js",
+  "scripts": {
+    "start": "node em320-tilt.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.0.0"
+  }
+}

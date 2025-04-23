@@ -1,0 +1,74 @@
+version: '3.8'
+
+services:
+  chirpstack:
+    image: chirpstack/chirpstack:latest
+    container_name: bgc-demo_chirpstack_1
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./chirpstack-config:/etc/chirpstack
+    command: ["--config", "/etc/chirpstack"]
+    depends_on:
+      postgres:
+        condition: service_healthy
+      mosquitto:
+        condition: service_started
+
+  mosquitto:
+    image: eclipse-mosquitto:2
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./mosquitto:/mosquitto/config
+    restart: always
+
+  redis:
+    image: redis:alpine
+    restart: always
+
+  postgres:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: smartbuilding
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./schema/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: always
+
+
+  middleware:
+    build: ./middleware
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+      - mosquitto
+    env_file:
+      - ./middleware/.env
+    restart: always
+
+  bms-dummy:
+    build: ./bms-dummy
+    ports:
+      - "5050:5050"
+    restart: always
+
+  adminer:
+    image: adminer
+    ports:
+      - "8081:8080"
+    restart: always
+
+volumes:
+  pg_data:
+  chirpstack_config:
